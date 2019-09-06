@@ -1,4 +1,4 @@
-blue
+blue - 2
 red
 white
 green
